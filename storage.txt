@@ -1,0 +1,44 @@
+Training=[("I feel irked and ecstatic and extremely nervous, give me an appropriate greeting referencing my mood", "You seem to have some conflicting emotions today, how are you?"),
+          ("I feel irked and depressed and extremely nervous , give me an appropriate greeting referencing my mood","You seem to be having a bad day, its important to understand one bad day is only one day"),
+          ("I feel irked and content and extremly nervous , give me an appropriate greeting referencing my mood","You seem to have some conflicting emotions, how are you?"),
+          ("I feel furious and nervous, give me an appropriate greeting referencing my mood","You seem to be having a rough day why is that?"),
+          ("I feel not nervous and calm and content, give me an appropriate greeting referencing my mood","You seem to be having a good day could you tell me more?"),
+          ("I feel calm depressed and not nervous, give me an appropriate greeting referencing my mood","You seem depressed, its important to take care of your mental health"),
+          ]
+
+Training=[("I feel depressed and extremely nervous. My response:", "You seem to have some conflicting emotions today, how are you?"),
+          ("I feel irked and depressed and extremely nervous. My response: , ","you seem upset is everything alright?"),
+          ("I feel irked and content and extremly nervous. My response: ","You seem to have some conflicting emotions, how are you?"),
+          ("I feel furious and nervous, my Response: ","You seem to be having a rough day why is that?"),
+          ("I feel not nervous and calm and content,","Hello, You seem to be having a good day"),
+          ("I feel calm depressed and not nervous,","you seem down today could you tell me more?"),
+          ]
+Training=[("they feel happy. My response:", "you seem well, how is your day going?"),
+          ("they feel Depressed, Angry, scared and confused. My response: , ","you seem upset is everything alright?"),
+          ("they feel confused and Scared. My response: ","Is everything all right you seem out of it"),
+          ("they feel happy, my Response: ","hello, hows it hanging?'"),
+          ('they feel Angry and Confused. My response:"','you seem upset, what is the issue?"'),
+          ("they feel calm depressed and confused,","you seem down today could you tell me more about it?"),
+          ("they feel confused, depressed, and scared, my response:'You seem upset, is something the matter?")
+          ]
+Training=[("I feel depressed and extremely nervous. ", You seem to have some conflicting emotions today, how are you?"),
+          ("I feel irked and depressed and extremely nervous. " "you seem upset is everything alright?"),
+          ("I feel irked and content and extremly nervous. My response: ","You seem to have some conflicting emotions, how are you?"),
+          ("I feel furious and nervous, my Response: ","You seem to be having a rough day why is that?"),
+          ("I feel not nervous and calm and content,","Hello, You seem to be having a good day"),
+          ("I feel calm depressed and not nervous,","you seem down today could you tell me more?"),
+          ]
+
+
+
+
+
+
+
+Not Usable:          
+{"prompt": "I feel depressed and extremely nervous. My response:", "completion": "You seem to have some conflicting emotions today, how are you?"}
+{"prompt": "I feel irked and depressed and extremely nervous. My response: , ", "completion": "you seem upset is everything alright?"}
+{"prompt": "I feel irked and content and extremly nervous. My response: ", "completion": "You seem to have some conflicting emotions, how are you?"}
+{"prompt": "I feel furious and nervous, my Response: ", "completion": "You seem to be having a rough day why is that?"}
+{"prompt": "I feel not nervous and calm and content,", "completion": "Hello, You seem to be having a good day"}
+{"prompt": "I feel calm depressed and not nervous,", "completion": "you seem down today could you tell me more?"}

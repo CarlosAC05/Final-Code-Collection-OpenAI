@@ -1,0 +1,7 @@
+{"prompt": "they feel happy. My response:", "completion": "you seem well, how is your day going?"}
+{"prompt": "they feel Depressed, Angry, scared and confused. My response: , ", "completion": "you seem upset is everything alright?"}
+{"prompt": "they feel confused and Scared. My response: ", "completion": "Is everything all right you seem out of it"}
+{"prompt": "they feel happy, my Response: ", "completion": "hello, hows it hanging?"}
+{"prompt": "they feel Angry and Confused. My response:", "completion": "you seem upset, what is the issue?"}
+{"prompt": "they feel calm depressed and confused,", "completion": "you seem down today could you tell me more about it?"}
+{"prompt": "t", "completion": "h"}
